@@ -1,1 +1,2 @@
-# segmentation-of-blood-vessels-in-retinal-images
+# DRIVE image segmentation using U-Net
+
