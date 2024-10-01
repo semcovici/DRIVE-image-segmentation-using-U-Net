@@ -1,6 +1,6 @@
 logs/
 models/
-
+enunciado/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,7 +8,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+enunciado/
 # Distribution / packaging
 .Python
 build/
@@ -254,7 +254,7 @@ acs-*.bib
 *.t[1-9]
 *.t[1-9][0-9]
 *.tfm
-
+.conda/
 #(r)(e)ledmac/(r)(e)ledpar
 *.end
 *.?end
